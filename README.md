@@ -69,4 +69,5 @@ Some topics you could discuss:
 * Make the joke "How does NerdWallet make money?"
 * Say "Haha, yeah I knew a guy over at AppDynamics once as well." (This is already under the conditional this person knows someone from AppDynamics.)
 * Saying #2 "Yeah, I vaguely remember a company called Percolate. I think everyone there was attractive."
-* Saying #3 "Totally into Dashboards, I think at work we use Heap or maybe something internal. I forget.
+* Saying #3 "Totally into Dashboards, I think at work we use Heap or maybe something internal. I forget."
+* Saying #4 "You ever run `--emerge sync` on Gentoo?"
