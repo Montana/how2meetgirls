@@ -9,6 +9,6 @@ https://slate.com/technology/2013/09/loveint-how-nsa-spies-snooped-on-girlfriend
 > NSA/CIA employees look into their ex girlfriends, love interests and upcoming first dates.
 
 
-## Some Reminders 
+## some reminders 
 
-Don't use the Wife n Life Calculator that Patrick Steadman and I made. 
+Don't use the Wife n Life Calculator that Patrick Steadman and I made. The seven question sequence is probably going to get you a low score, it's 2024. Don't put much merit into it.
