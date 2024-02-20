@@ -1,6 +1,6 @@
 # how2meetgirls
 
-![how2meetgirls](https://github.com/Montana/how2meetgirls/assets/20936398/1c676a8c-c072-4b4a-a42f-97abc80a8d28)
+![how2meetgirls](https://github.com/Montana/how2meetgirls/assets/20936398/379cdbee-34d3-4257-8d06-92f1c42a6029)
 
 No this is not some `LOVEINT` repo. After I'm done finishing this, there will be tables at Olive Garden reserved.
 
