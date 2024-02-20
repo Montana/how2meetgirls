@@ -53,7 +53,17 @@ It happens to all of us, just open a terminal and run `killall` and go back to i
 
 <img width="1361" alt="Screenshot 2024-02-20 at 5 27 47 AM" src="https://github.com/Montana/how2meetgirls/assets/20936398/cc1d65a6-0925-4836-b187-e15592d86c8f">
 
-
 ## some reminders 
 
 Don't use the Wife n Life Calculator that Patrick Steadman and I made. The seven question sequence is probably going to get you a low score, it's 2024. Don't put much merit into it.
+
+## she brought her bro friend over who knows nothing about programming
+
+Some topics you could discuss:
+
+* RobinHood
+* Plaid
+* Stripe
+* Braintree (possibly)
+* Acorns
+* Make the joke "How does NerdWallet make money?" 
