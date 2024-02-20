@@ -47,7 +47,7 @@ nnoremap <C-n> :NERDTreeToggle<CR> " Toggle NERDTree with Ctrl + n
 " Happy coding, nice2meetu!
 ```
 
-## whap happens if a programming snafu happens
+## what happens if a programming snafu happens
 
 It happens to all of us, just open a terminal and run `killall` and go back to importing those dependencies without a `requirements.txt` file, you're a bad boy!
 
