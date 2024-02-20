@@ -66,4 +66,5 @@ Some topics you could discuss:
 * Stripe
 * Braintree (possibly)
 * Acorns
-* Make the joke "How does NerdWallet make money?" 
+* Make the joke "How does NerdWallet make money?"
+* Say "Haha, yeah I knew a guy over at AppDynamics once as well." (This is already under the conditional this person knows someone from AppDynamics.) 
