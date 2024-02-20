@@ -9,12 +9,12 @@ https://slate.com/technology/2013/09/loveint-how-nsa-spies-snooped-on-girlfriend
 > NSA/CIA employees look into their ex girlfriends, love interests and upcoming first dates.
 
 
-## update your `vimrc` 
+## update your `.vimrc` 
 
 Now you don't need to start from scratch. If you're girlfriend is coming over (or perhaps a first date!) go the extra mile to impress them with your `.vimrc`. In fact I'd even use `tmux`. Navigate `NERDTree` like you've never done before. This is my `.vimrc` I made, this was for when my last date came over:
 
 ```vim
-" Possible Girlfriend!!!
+" Hello, and welcome to my Vim setup! Tonight, let's make you seeing my screen an unforgettable experience!
 
 " General Settings
 set number                " Show line numbers
