@@ -61,7 +61,7 @@ Don't use the Wife n Life Calculator that Patrick Steadman and I made. The seven
 
 Some topics you could discuss:
 
-* RobinHood
+* Robinhood
 * Plaid
 * Stripe
 * Braintree (possibly)
@@ -71,3 +71,4 @@ Some topics you could discuss:
 * Saying #2 "Yeah, I vaguely remember a company called Percolate. I think everyone there was attractive."
 * Saying #3 "Totally into Dashboards, I think at work we use Heap or maybe something internal. I forget."
 * Saying #4 "You ever run `--emerge sync` on Gentoo?"
+* _Act_ like Google forwarding their domains to Squarespace is a huge deal. 
